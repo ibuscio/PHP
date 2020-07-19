@@ -1,2 +1,3 @@
 # PHP
-SistemaContable
+SistemaContable en PHP
+Base de datos en MYsql
